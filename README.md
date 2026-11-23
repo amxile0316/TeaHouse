@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="docs/images/tauritavern-readme-hero.webp" alt="TauriTavern" width="720">
+<img src="docs/images/tauritavern-readme-hero.webp" alt="TeaHouse" width="720">
 
 
-# TauriTavern
+# TeaHouse\TauriTavern
 
 **SillyTavern 的原生应用 —— 桌面与移动，开箱即用**
 
